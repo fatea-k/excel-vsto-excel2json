@@ -1,0 +1,15 @@
+F:\code\Excel2Json\bin\Release\Excel2Json.dll
+F:\code\Excel2Json\bin\Release\Excel2Json.pdb
+F:\code\Excel2Json\bin\Release\Excel2Json.dll.manifest
+F:\code\Excel2Json\bin\Release\Excel2Json.vsto
+F:\code\Excel2Json\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+F:\code\Excel2Json\bin\Release\Newtonsoft.Json.dll
+F:\code\Excel2Json\bin\Release\Newtonsoft.Json.xml
+F:\code\Excel2Json\obj\Release\Excel2Json.csproj.AssemblyReference.cache
+F:\code\Excel2Json\obj\Release\Excel2Json.Properties.Resources.resources
+F:\code\Excel2Json\obj\Release\Excel2Json.Ribbon1.resources
+F:\code\Excel2Json\obj\Release\Excel2Json.csproj.GenerateResource.cache
+F:\code\Excel2Json\obj\Release\Excel2Json.csproj.CoreCompileInputs.cache
+F:\code\Excel2Json\obj\Release\Excel2Json.csproj.CopyComplete
+F:\code\Excel2Json\obj\Release\Excel2Json.dll
+F:\code\Excel2Json\obj\Release\Excel2Json.pdb

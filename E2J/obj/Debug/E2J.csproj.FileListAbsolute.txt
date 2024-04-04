@@ -1,0 +1,15 @@
+D:\Users\zkcai\Desktop\Excel2Json\E2J\bin\Debug\Excel2Json.dll
+D:\Users\zkcai\Desktop\Excel2Json\E2J\bin\Debug\Excel2Json.pdb
+D:\Users\zkcai\Desktop\Excel2Json\E2J\bin\Debug\Excel2Json.dll.manifest
+D:\Users\zkcai\Desktop\Excel2Json\E2J\bin\Debug\Excel2Json.vsto
+D:\Users\zkcai\Desktop\Excel2Json\E2J\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Users\zkcai\Desktop\Excel2Json\E2J\bin\Debug\Newtonsoft.Json.dll
+D:\Users\zkcai\Desktop\Excel2Json\E2J\bin\Debug\Newtonsoft.Json.xml
+D:\Users\zkcai\Desktop\Excel2Json\E2J\obj\Debug\E2J.csproj.AssemblyReference.cache
+D:\Users\zkcai\Desktop\Excel2Json\E2J\obj\Debug\Excel2Json.Properties.Resources.resources
+D:\Users\zkcai\Desktop\Excel2Json\E2J\obj\Debug\Excel2Json.Ribbon1.resources
+D:\Users\zkcai\Desktop\Excel2Json\E2J\obj\Debug\E2J.csproj.GenerateResource.cache
+D:\Users\zkcai\Desktop\Excel2Json\E2J\obj\Debug\E2J.csproj.CoreCompileInputs.cache
+D:\Users\zkcai\Desktop\Excel2Json\E2J\obj\Debug\E2J.csproj.CopyComplete
+D:\Users\zkcai\Desktop\Excel2Json\E2J\obj\Debug\Excel2Json.dll
+D:\Users\zkcai\Desktop\Excel2Json\E2J\obj\Debug\Excel2Json.pdb
